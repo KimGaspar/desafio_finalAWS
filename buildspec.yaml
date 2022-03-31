@@ -11,4 +11,4 @@ phases:
 artifacts:
   files:
     - target/bank-account.jar
-  discard-path: yes
+  discard-paths: yes
